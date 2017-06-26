@@ -1,6 +1,7 @@
 This content is owned by;
-Mark Snow
-Jack Vandenbrink
+
+Mark Snow, 
+Jack Vandenbrink, 
 David Oliva
 
 If you wish to use any items from this repository
